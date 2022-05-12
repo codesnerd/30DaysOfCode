@@ -7,3 +7,7 @@
 ## Day 2:
 
 - Problem Solved: [Best Time to Buy and Sell Stock II](https://github.com/codesnerd/LeetCode/blob/main/Top%20Easy%20Interview%20Questions/Array/2-%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.md)
+
+## Day 3:
+
+- Problem Solved: [Rotate Array](https://github.com/codesnerd/LeetCode/blob/main/Top%20Easy%20Interview%20Questions/Array/3-%20Rotate%20Array.md)
