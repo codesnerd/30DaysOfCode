@@ -11,3 +11,7 @@
 ## Day 3:
 
 - Problem Solved: [Rotate Array](https://github.com/codesnerd/LeetCode/blob/main/Top%20Easy%20Interview%20Questions/Array/3-%20Rotate%20Array.md)
+
+## Day 4:
+
+- Problem Solved: [Contains Duplicate](https://github.com/codesnerd/LeetCode/blob/main/Top%20Easy%20Interview%20Questions/Array/4-%20Contains%20Duplicate.md)
